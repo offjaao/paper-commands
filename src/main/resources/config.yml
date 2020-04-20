@@ -1,0 +1,14 @@
+#crie aqui os papéis seguindo o formato correto
+Items:
+  Item1:
+    id: 1
+    nome: '&e+300 de coins'
+    commands:
+    - 'money give @player 300'
+
+  Item2:
+    id: 2
+    nome: '&e+600 de coins'
+    commands:
+    - 'money give @player 600'
+    - 'tell @player oi'

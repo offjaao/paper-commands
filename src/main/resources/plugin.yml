@@ -1,0 +1,6 @@
+name: paper-commands
+version: ${project.version}
+main: me.thejaao.papercmd.PaperCommands
+authors: [jaao]
+commands:
+  papel:
